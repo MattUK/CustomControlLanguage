@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CustomControlLanguage:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d70e500c-b478-4b43-a55b-63cab08a02c9" name="Default" comment="" />
+    <ignored path="Interpreter02.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Tokenizer.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366847739326" ignored="false" />
+    <file path="/Interpreter02.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1355854573259" ignored="false" />
+    <file path="/fragment.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1368102439189" ignored="false" />
+    <file path="/Parser.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366880933791" ignored="false" />
+    <file path="/TokenString.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362062657726" ignored="false" />
+    <file path="/test.txt" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366824159524" ignored="false" />
+    <file path="/Interpreter.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366842559293" ignored="false" />
+    <file path="/a.dummy" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366847089585" ignored="false" />
+    <file path="/Statement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1355853570161" ignored="false" />
+    <file path="/Token.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366827498368" ignored="false" />
+    <file path="/IfStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362663814011" ignored="false" />
+    <file path="/AndConditionalOperator.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1363872357169" ignored="false" />
+    <file path="/VariableDeclarationStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1356013788135" ignored="false" />
+    <file path="/CallStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366829830873" ignored="false" />
+    <file path="/EndFunctionStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362058487288" ignored="false" />
+    <file path="/ElseIfStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362663763605" ignored="false" />
+    <file path="/ForStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362058768802" ignored="false" />
+    <file path="/VariableDeclaration.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366824470405" ignored="false" />
+    <file path="/Expression.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366847694591" ignored="false" />
+    <file path="/CallStatementTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366722705746" ignored="false" />
+    <file path="/VariableDeclarationTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1359038352422" ignored="false" />
+    <file path="/Condition.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1363863034298" ignored="false" />
+    <file path="/VariableParseException.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1359033499450" ignored="false" />
+    <file path="/ExpressionParseException.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360071275529" ignored="false" />
+    <file path="/ArrayAccessor.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366724035353" ignored="false" />
+    <file path="/BracketExpression.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1359034506225" ignored="false" />
+    <file path="/CallStatementParseException.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366722671224" ignored="false" />
+    <file path="/ExpressionTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360071411752" ignored="false" />
+    <file path="/*.regexp" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1368103618614" ignored="false" />
+    <file path="/NextStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362058926865" ignored="false" />
+    <file path="/ParserTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362664310157" ignored="false" />
+    <file path="/RepeatStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362059139889" ignored="false" />
+    <file path="/UntilStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362663835278" ignored="false" />
+    <file path="/WendStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1359630426256" ignored="false" />
+    <file path="/CustomControlLanguage.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366710261717" ignored="false" />
+    <file path="/WhileStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362663847972" ignored="false" />
+    <file path="/ArrayDeclaration.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362057497931" ignored="false" />
+    <file path="/SetStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366719736677" ignored="false" />
+    <file path="/ExpressionEvaluator.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366977309215" ignored="false" />
+    <file path="/Dummy.txt" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1363875856265" ignored="false" />
+    <file path="/ShuntingYard.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366829877988" ignored="false" />
+    <file path="/ShuntingYardTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360075698693" ignored="false" />
+    <file path="/ExpressionEvaluatorTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362491201266" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/src/com/sky/mattca/ccl/controlboard/SevenSegmentDisplay.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017783" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/src/com/sky/mattca/ccl/tokenizer/Token.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360675522140" ignored="false" />
+    <file path="/SwitchStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360680732815" ignored="false" />
+    <file path="/IDEWindow.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360852406457" ignored="false" />
+    <file path="/IDEManager.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1361888689159" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/src/com/sky/mattca/ccl/tokenizer/Tokenizer.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017780" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/src/com/sky/mattca/ccl/tokenizer/TokenString.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017780" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/src/com/sky/mattca/ccl/controlboard/LibraryInterface.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017783" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/copyright/profiles_settings.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017783" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/dictionaries/Matt.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017783" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/src/com/sky/mattca/ccl/accessors/ArrayAccessor.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017783" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/libraries/JNA.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017783" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/scopes/scope_settings.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017783" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/src/com/sky/mattca/ccl/controlboard/K8055Library.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941017783" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/uiDesigner.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941018284" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/vcs.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941018284" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/workspace.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941018284" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/ant.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941018349" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/compiler.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941018349" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/encodings.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941018349" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/misc.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941018349" ignored="false" />
+    <file path="$PROJECT_DIR$/CustomControlLanguage/.idea/modules.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1360941018349" ignored="false" />
+    <file path="/MainWindow.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1368018590627" ignored="false" />
+    <file path="/Bracket.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362057523157" ignored="false" />
+    <file path="/FunctionStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362058824796" ignored="false" />
+    <file path="/ConditionalEvaluator.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366977262205" ignored="false" />
+    <file path="/ReturnStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366824206728" ignored="false" />
+    <file path="/OpenBracket.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362491818668" ignored="false" />
+    <file path="/CloseBracket.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362491829190" ignored="false" />
+    <file path="/ConditionLine.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362495390981" ignored="false" />
+    <file path="/BracketCondition.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362494457961" ignored="false" />
+    <file path="/BracketConditionSequence.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1364293039524" ignored="false" />
+    <file path="/ConditionSequence.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1363875027544" ignored="false" />
+    <file path="/ideas.txt" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362662058827" ignored="false" />
+    <file path="/ConditionSequenceTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362663395888" ignored="false" />
+    <file path="/MenuManager.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1362667041450" ignored="false" />
+    <file path="/ConditionTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1363258293583" ignored="false" />
+    <file path="/OrConditionalOperator.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1363872366885" ignored="false" />
+    <file path="/ConditionalEvaluatorTest.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1364294977892" ignored="false" />
+    <file path="/FunctionInterpreter.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366801548104" ignored="false" />
+    <file path="/StatementInterpreter.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1368101972908" ignored="false" />
+    <file path="/Data.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366800025431" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366827989500" ignored="false" />
+    <file path="/ContinueStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366828229114" ignored="false" />
+    <file path="/BreakStatement.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366828239038" ignored="false" />
+    <file path="/InBuiltFunctions.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1368104173811" ignored="false" />
+    <file path="/InterpreterOutputStream.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366834560900" ignored="false" />
+    <file path="/IDEInputStream.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1366839890257" ignored="false" />
+    <file path="/FunctionStatementWindow.java" changelist="d70e500c-b478-4b43-a55b-63cab08a02c9" time="1367329637644" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Interpreter02" />
+    <favorites_list name="Current task" />
+    <favorites_list name="CustomControlLanguage" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainWindow.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/ide/MainWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="327" column="34" selection-start="11544" selection-end="11544" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InBuiltFunctions.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/InBuiltFunctions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="197" column="70" selection-start="10590" selection-end="10590" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Condition.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/parser/Condition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="0" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomControlLanguage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/CustomControlLanguage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="10" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShuntingYard.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/ShuntingYard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="151" column="40" selection-start="5150" selection-end="5150" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SevenSegmentDisplay.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/controlboard/SevenSegmentDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="17" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="K8055Library.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/controlboard/K8055Library.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="0" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatementInterpreter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/StatementInterpreter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="147" column="31" selection-start="5682" selection-end="5682" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interpreter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/Interpreter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="42" selection-start="2477" selection-end="2477" vertical-scroll-proportion="-3.5380118">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/ide/IDEInputStream.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/ide/MainWindow.form" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/parser/Expression.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/tokenizer/Tokenizer.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/parser/VariableDeclaration.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/ConditionalEvaluator.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/ExpressionEvaluator.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/Interpreter.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/ide/FunctionStatementWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/controlboard/K8055Library.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/ide/MainWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/StatementInterpreter.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/ShuntingYard.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/parser/Condition.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/InBuiltFunctions.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectState">
+    <option name="privateKey" value="3082025d020100028181008c26684ae59d5f4f06da5bcf5bd65aae823c592c652472cfe713565d9709329e8ca30dad918a1162ba8c57c9467e33dbe9fc84470a8a4bb2162779b42ddfe7609d083ef2dfe6991befabb24f0c9b1d48e60768aa5b3d013be83614e81de6790110cb0bbff0bc101492ace2069442d72313f3bc364504bc1b41e096c1c6da79390203010001028181008a0a9e78fef6e5d469f493af874e779d212c1dcd2b861e0c071735df130ffd2acb6d22e0cdd447518e5b03707d9d7aa8e62c5181c3b0f9e3dc0c5fc487d6dd0708192cc31f0de352683a8860559f35ffb43495843a9c9e78c7deb5245dc63d8add7e5d86764b4b386a268e9e7490c7c620014d170a746d1eb513fa71b598d581024100bff4bb93223914565266fe32247fca1ce9995dff02e6cba6be42deb16c74986b9e3616c0baff1be9a3f24655e39149ad793b0a40dfe9dba113118e52a2368d91024100bae8d8575ea6e1dc7ec15c248f8f13edbbb2b012f3dabd6e76b40b26eee3b02c1217772116441aaa599de77a482a200ab29a2759bca4385a29678dc2721e7d290241009b7904482a8ae2befbe4f173f97e0b5c99939fbf41415fa74128f627ec390f8ef2c8ca6af5ca54784b529ac74c174bfe96574c79b92237c261a87186da5da71102405edd75888abaeae20dd7b81bba5d654101464545a94d395e4a934121c697fbbfb283046cdfaf3b5580dcbb32fe539b25b2d6b8e83beda1c869416cdae72f005902404affa784b600f3128f975ec0fb3e3ffdf7da86b4f27895089e4af3cc4dc0f276837d35c7a220c49ffc89f4cef38c10155ba4d5e13cb0913edb268d12defa58ef" />
+    <option name="publicKey" value="308189028181008c26684ae59d5f4f06da5bcf5bd65aae823c592c652472cfe713565d9709329e8ca30dad918a1162ba8c57c9467e33dbe9fc84470a8a4bb2162779b42ddfe7609d083ef2dfe6991befabb24f0c9b1d48e60768aa5b3d013be83614e81de6790110cb0bbff0bc101492ace2069442d72313f3bc364504bc1b41e096c1c6da79390203010001" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="interpretation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomControlLanguage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controlboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sky.mattca.ccl.tests" />
+      <recent name="com.sky.mattca.ccl.interpretation" />
+      <recent name="com.sky.mattca.ccl.parser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\IdeaProjects\Interpreter02\libs" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sky.mattca.ccl.parser" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\Projects\Idea Projects\CustomControlLanguage\src" />
+      <recent name="D:\Development\Java Projects\Idea Projects\CustomControlLanguage\src\com\sky\mattca\ccl" />
+      <recent name="D:\Development\Java Projects\Idea Projects\CustomControlLanguage\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sky.mattca.ccl.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainWindow">
+    <configuration default="false" name="MainWindow" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.ide.MainWindow" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CustomControlLanguage" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParserTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.ParserTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="VariableDeclarationTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.VariableDeclarationTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CustomControlLanguage" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.CustomControlLanguage" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CustomControlLanguage" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExpressionTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.ExpressionTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShuntingYardTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.ShuntingYardTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExpressionEvaluatorTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.ExpressionEvaluatorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CallStatementTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.CallStatementTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConditionSequenceTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.ConditionSequenceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConditionTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.ConditionTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConditionalEvaluatorTest" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="CustomControlLanguage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sky.mattca.ccl.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.mattca.ccl.tests.ConditionalEvaluatorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="11">
+      <item index="0" class="java.lang.String" itemvalue="Application.CustomControlLanguage" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ExpressionTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ShuntingYardTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ExpressionEvaluatorTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CallStatementTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ConditionSequenceTest" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.ConditionTest" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.ConditionalEvaluatorTest" />
+      <item index="8" class="java.lang.String" itemvalue="Application.MainWindow" />
+      <item index="9" class="java.lang.String" itemvalue="JUnit.ParserTest" />
+      <item index="10" class="java.lang.String" itemvalue="JUnit.VariableDeclarationTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainWindow" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.VariableDeclarationTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ParserTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ExpressionTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ExpressionTest" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="StatisticProjectComponent">
+    <option name="excludeCompilerOutput" value="true" />
+    <option name="excludeIdea9ArtifactDirectory" value="true" />
+    <option name="excludeTargetDirectories" value="true" />
+    <option name="activateWhenOpenProject" value="true" />
+    <option name="excludedDirectories">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="fileTypes" value="class;svn-base;svn-work;Extra;gif;png;jpg;jpeg;bmp;tga;tiff;ear;war;zip;jar;iml;iws;ipr;bz2;gz;" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d70e500c-b478-4b43-a55b-63cab08a02c9" name="Default" comment="" />
+      <created>1349645086966</created>
+      <updated>1349645086966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="821" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13874066" sideWeight="0.7964405" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24951644" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38780206" sideWeight="0.4929491" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32426035" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15850674" sideWeight="0.32220945" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32290184" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32681242" sideWeight="0.49082008" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953683" sideWeight="0.68835616" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991462" sideWeight="0.6712329" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11477762" sideWeight="0.8045649" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19543509" sideWeight="0.497552" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20277481" sideWeight="0.7964405" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963374" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.7468355" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32220945" sideWeight="0.497552" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39930955" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Interpreter02" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Interpreter02" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/ide/IDEOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="277" selection-end="277" vertical-scroll-proportion="0.2218268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="309" column="9" selection-start="13585" selection-end="13585" vertical-scroll-proportion="0.020166073" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/StatementInterpreterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="13" selection-start="285" selection-end="285" vertical-scroll-proportion="0.112692766">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/tokenizer/Tokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="29" selection-start="3252" selection-end="3252" vertical-scroll-proportion="0.020166073" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/tokenizer/TokenString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="1217" selection-end="1217" vertical-scroll-proportion="0.020166073" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/controlboard/LibraryInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="17" selection-start="277" selection-end="277" vertical-scroll-proportion="-0.8419183">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/tokenizer/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="1343" selection-end="1343" vertical-scroll-proportion="0.030195381">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/CustomControlLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="10" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/parser/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/StatementInterpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="31" selection-start="5682" selection-end="5682" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/ide/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="327" column="34" selection-start="11544" selection-end="11544" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/ShuntingYard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="40" selection-start="5150" selection-end="5150" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/controlboard/SevenSegmentDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/controlboard/K8055Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/InBuiltFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="197" column="70" selection-start="10590" selection-end="10590" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/mattca/ccl/interpretation/Interpreter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="42" selection-start="2477" selection-end="2477" vertical-scroll-proportion="-3.5380118">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>CustomControlLanguage:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CustomControlLanguage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JNA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

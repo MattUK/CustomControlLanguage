@@ -1,0 +1,12 @@
+(a = true & b = true) | c = true
+
+c = true | (a = true & b = true)
+
+a = true & b = true & (c = true)
+
+a = true & b = false
+
+a = true
+
+<Condition-Sequence>::=<Condition><Relational-Operator><Condition-Sequence>|
+<Condition>|(<Condition-Sequence>)

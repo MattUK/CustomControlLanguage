@@ -1,0 +1,19 @@
+Var 58V = 2
+Print 58V * 58V
+
+
+While
+Repeat
+
+
+Variable Definition
+
+Array Definition
+
+Variable/Array Assignment
+
+Return Statement
+
+Continue Statement
+
+Break Statement

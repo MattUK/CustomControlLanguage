@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.sky.mattca.ccl.ide.MainWindow">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="827" height="600"/>
+    </constraints>
+    <properties>
+      <minimumSize width="800" height="600"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <splitpane id="b44cf">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <dividerLocation value="606"/>
+          <enabled value="true"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="c06ca" layout-manager="GridBagLayout">
+            <constraints>
+              <splitpane position="right"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="eb5cb" class="javax.swing.JButton" binding="functionButton">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Function Statement"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new Function Statement at &lt;br&gt;the current line. A Function Statement&lt;br&gt; consists of the &quot;Function&quot; keyword,&lt;br&gt;followed by a name (one word, must begin&lt;br&gt; with a letter), and finally any parameters it accepts. E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;Function testFunction(x, y, z)&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="40c36" class="javax.swing.JButton" binding="ifStatementButton" default-binding="true">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="If Statement"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new If Statement at the&lt;br&gt; current line. An If Statement consists&lt;br&gt; of the &quot;If&quot; keyword, followed by a&lt;br&gt; condition surrounded by brackets, and&lt;br&gt; finished by the &quot;Then&quot; keyword. E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;If (x + 1 = 4) Then&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="e99e1" class="javax.swing.JButton" binding="forLoopButton" default-binding="true">
+                <constraints>
+                  <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="For Loop"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new For Loop statement at the&lt;br&gt; current line. A For Loop consists of the&lt;br&gt; &quot;For&quot; keyword, followed by a counter&lt;br&gt; expression surrounded in brackets. E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;For (x = 1 To 10)&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="37bfb" class="javax.swing.JButton" binding="whileLoopButton" default-binding="true">
+                <constraints>
+                  <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="While Loop"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new While Loop statement at the&lt;br&gt; current line. A While Loop consists of the&lt;br&gt; &quot;While&quot; keyword, followed by a condition&lt;br&gt; surrounded in brackets. E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;While (x &lt; 4)&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="daff1" class="javax.swing.JButton" binding="repeatLoopButton" default-binding="true">
+                <constraints>
+                  <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Repeat Loop"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new Repeat Loop statement at the&lt;br&gt; current line. A Repeat Loop consists of a&lt;br&gt; &quot;Repeat&quot; keyword, followed by an Until&lt;br&gt; statement, which contains the condition&lt;br&gt; surrounded in brackets. E.g:&lt;br&gt; &lt;br&gt; Repeat&lt;br&gt; ...&lt;br&gt; Until (x &lt; 4)&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="cf960" class="javax.swing.JButton" binding="switchStatementButton" default-binding="true">
+                <constraints>
+                  <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Switch Statement"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new Switch Statement at the&lt;br&gt; current line. A Switch Statement consists&lt;br&gt; of the &quot;Switch&quot; keyword, followed by a&lt;br&gt; variable within brackets. E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;Switch (myString)&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="563b2" class="javax.swing.JButton" binding="caseStatementButton" default-binding="true">
+                <constraints>
+                  <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="CaseStatement"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new Case Statement at the&lt;br&gt; current line. A Case Statement consists&lt;br&gt; of the &quot;Case&quot; keyword followed by an&lt;br&gt; expression surrounded by brackets. E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;Case (3)&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="a1999" class="javax.swing.JButton" binding="variableDefinitionButton" default-binding="true">
+                <constraints>
+                  <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Variable Definition"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new Variable Definition at the&lt;br&gt; current line. A Variable Definition consists&lt;br&gt; of the &quot;Var&quot; keyword, follwed by the name of&lt;br&gt; the new variable (an identifier), and an&lt;br&gt; initial value (an expression or function&lt;br&gt; call). E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;Var myVariable = &quot;Hello, World!&quot;&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="efa60" class="javax.swing.JButton" binding="arrayDefinitionButton" default-binding="true">
+                <constraints>
+                  <grid row="9" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Array Definition"/>
+                  <toolTipText value="&lt;html&gt;Inserts a new Array Definition at the current&lt;br&gt; line. An Array Definition consists of the&lt;br&gt; &quot;Array&quot; keyword, followed by a new name, and an&lt;br&gt; initial size. E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;Array myArray 10&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="39bfa" class="javax.swing.JButton" binding="callStatementButton" default-binding="true">
+                <constraints>
+                  <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="1.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <text value="Call Statement"/>
+                  <toolTipText value="&lt;html&gt;A Call Statement makes a call to a internal&lt;br&gt;&#10;or user-defined Function within the same file.&lt;br&gt; A Call Statement consists of the name of the&lt;br&gt; Function to call, followed by an optional number&lt;br&gt; of parameters separated by commas. E.g:&lt;br&gt;&#10;&lt;br&gt;&#10;myFunction 1, 2, 9 + 2&lt;/html&gt;"/>
+                </properties>
+              </component>
+              <component id="1e3b2" class="javax.swing.JLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <gridbag weightx="0.0" weighty="0.0"/>
+                </constraints>
+                <properties>
+                  <font size="20" style="1"/>
+                  <text value="Insert"/>
+                  <toolTipText value="&lt;html&gt;Choose a button below to insert a new statement&lt;br&gt; of that type. This system is designed to make it&lt;br&gt; easier for new users to enter code accurately,&lt;br&gt; without having to remember the format.&lt;/html&gt;"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <splitpane id="9e9d3">
+            <constraints>
+              <splitpane position="left"/>
+            </constraints>
+            <properties>
+              <dividerLocation value="430"/>
+              <orientation value="0"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <scrollpane id="9cec7">
+                <constraints>
+                  <splitpane position="left"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="cb141" class="javax.swing.JTextArea" binding="textArea1" default-binding="true">
+                    <constraints/>
+                    <properties/>
+                  </component>
+                </children>
+              </scrollpane>
+              <grid id="6b455" layout-manager="GridLayoutManager" row-count="2" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+                <margin top="0" left="0" bottom="0" right="0"/>
+                <constraints>
+                  <splitpane position="right"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="21908" class="javax.swing.JTextField" binding="interpreterInputArea">
+                    <constraints>
+                      <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                        <preferred-size width="150" height="-1"/>
+                      </grid>
+                    </constraints>
+                    <properties>
+                      <font name="Courier New"/>
+                    </properties>
+                  </component>
+                  <scrollpane id="249a5">
+                    <constraints>
+                      <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                    </constraints>
+                    <properties/>
+                    <border type="none"/>
+                    <children>
+                      <component id="979f8" class="javax.swing.JTextArea" binding="interpreterOutputArea">
+                        <constraints/>
+                        <properties>
+                          <editable value="false"/>
+                          <enabled value="true"/>
+                          <lineWrap value="true"/>
+                        </properties>
+                      </component>
+                    </children>
+                  </scrollpane>
+                </children>
+              </grid>
+            </children>
+          </splitpane>
+        </children>
+      </splitpane>
+    </children>
+  </grid>
+</form>
